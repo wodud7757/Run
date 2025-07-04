@@ -67,9 +67,9 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 32
@@ -322,12 +322,34 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Toko_Run_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ab0161a2bdcf04895162259f21d29d
+      internalID: 920815564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
     spriteID: 139adb136fe054b6298073e9e290315a
-    internalID: 0
+    internalID: 286023511
     vertices: []
     indices: 
     edges: []
@@ -344,6 +366,7 @@ TextureImporter:
       Toko_Run_5: 21300010
       Toko_Run_6: 21300012
       Toko_Run_7: 21300014
+      Toko_Run_8: 920815564
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
